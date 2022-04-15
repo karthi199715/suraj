@@ -1,1 +1,1 @@
-# suraj
+cat /etc/passwd
